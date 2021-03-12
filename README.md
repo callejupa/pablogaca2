@@ -11,10 +11,6 @@ I`m Juan Pablo Calle and I love develop!<br />
 </br>
 <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /><img alt="sass" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
 
-<h3>Techs that I´m learning!</h3>
-
-<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /><img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-
   <h3>Find me!</h3>
 
 <a href="https://www.linkedin.com/in/pablogaca2/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
